@@ -1,9 +1,12 @@
 -- První radek
 -- Druhy raded
 -- Paty radek
+-- Sesty radek
 
 Hello :)
 
 Roses are red, violets are blue, i can do Git and so can you :)
 
 Ahoj, ja jsem kamos a upravuju ti kod :) 
+
+-- Toto je edit z vetve "test"
