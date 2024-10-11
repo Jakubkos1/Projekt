@@ -1,6 +1,6 @@
 -- První radek
 -- Druhy raded
--- Treti radek
+-- Paty radek
 
 Hello :)
 
